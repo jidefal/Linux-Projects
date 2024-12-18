@@ -33,6 +33,7 @@ cd ~/bash_scripts
 touch hello_world.sh
 chmod +x hello_world.sh
 
+
 text
 
 4. Open the script in a text editor and add:

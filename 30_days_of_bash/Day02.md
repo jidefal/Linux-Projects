@@ -86,7 +86,7 @@ Searches for patterns in files.
 2. Inside "project", create three subdirectories: "docs", "src", and "tests".
 3. In each subdirectory, create an empty file called "README.md".
 
-## Navigation practice:
+## Navigation practice
 1. Starting from your home directory, navigate to the "src" directory you just created using a single command.
 2. List the contents of the "src" directory.
 3. Move back to the "project" directory.
