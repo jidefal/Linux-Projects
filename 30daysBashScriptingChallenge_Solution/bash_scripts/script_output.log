@@ -1,0 +1,73 @@
+Starting the script...
+Hello, jum!
+Random number generated: 3
+Counting down from 5
+5
+4
+3
+2
+1
+Done!
+Congratulations Script execution completed.
+Starting the script...
+Choose an option:
+1. Print greeting
+2. Count down from 5
+3. Generate a random number between 1 and 10
+4. Exit
+Enter your choice: Hello, World!
+Choose an option:
+1. Print greeting
+2. Count down from 5
+3. Generate a random number between 1 and 10
+4. Exit
+Enter your choice: 5
+4
+3
+2
+1
+Blast off!
+Choose an option:
+1. Print greeting
+2. Count down from 5
+3. Generate a random number between 1 and 10
+4. Exit
+Enter your choice: Random number generated: 3
+Choose an option:
+1. Print greeting
+2. Count down from 5
+3. Generate a random number between 1 and 10
+4. Exit
+Enter your choice: Exiting the script. Goodbye!
+Script execution completed.
+Starting the script...
+Choose an option:
+1. Print greeting
+2. Count down from 5
+3. Generate a random number between 1 and 10
+4. Exit
+Enter your choice: Hello, World!
+Choose an option:
+1. Print greeting
+2. Count down from 5
+3. Generate a random number between 1 and 10
+4. Exit
+Enter your choice: 5
+4
+3
+2
+1
+Done!
+Choose an option:
+1. Print greeting
+2. Count down from 5
+3. Generate a random number between 1 and 10
+4. Exit
+Enter your choice: Random number generated: 1
+Choose an option:
+1. Print greeting
+2. Count down from 5
+3. Generate a random number between 1 and 10
+4. Exit
+Enter your choice: Exiting the script. Goodbye!
+Script execution completed.
